@@ -1,0 +1,25 @@
+//Format the question as the previous.
+QUESTION 1:
+Vad torskade Micke Persbrandt med?
+1. Kola
+X. Fiskespö
+2. Öl
+1
+QUESTION 2:
+Under vilket namn är Robert Zimmerman mer känd?
+1. Jimi Hendrix
+X. Prince
+2. Bob Dylan
+2
+QUESTION 3:
+Vilken skådespelare är känd för sin roll som Björnes i Björnes magasin?
+1. Jörgen Lantz
+X. Robert Gustafsson
+2. Loa Falkman
+1
+QUESTION 4:
+Vilken barnbokskaraktär är på våra tjugo-lappar?
+1. Nils Holgersson
+X. Teskedsgumman
+2. Pippi Långstrump
+2
